@@ -1,4 +1,4 @@
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+![image](https://github.com/xuesong1974/wesnoth/assets/36786035/e1eebb1e-f709-40d2-802d-196e4264e3dd)[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 |Branch|CI status|
 |------|---------|
@@ -8,7 +8,7 @@
 About
 =====
 
-**The Battle for Wesnoth** is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. Fight a desperate battle to reclaim the throne of Wesnoth, search for the key to immortality, or take part in any number of other adventures.
+**The Battle for Wesnoth** 一款免费开源的回合制策略游戏。背景是为夺回韦诺的王位而战，游戏支持中文，包含丰富的地图、超多兵种和种族，玩法多样高自由度，还支持玩家 DIY 地图以及线上多人战役。但缺点是攻击的命中概率出奇的低，容易导致血压上升，很多玩家吐槽：”别的游戏要钱，这个游戏要命。” 会 C++ 的大神快来修改下参数，救救孩子们吧。
 
 Community
 ---------
