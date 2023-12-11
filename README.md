@@ -1,4 +1,4 @@
-![image](https://github.com/xuesong1974/wesnoth/assets/36786035/e1eebb1e-f709-40d2-802d-196e4264e3dd)[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
 
 |Branch|CI status|
 |------|---------|
